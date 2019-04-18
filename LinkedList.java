@@ -1,8 +1,7 @@
 /**
  * @(#)LinkedList.java
  *
- *
- * @author 
+ * @author Mhizta_Mammut
  * @version 1.00 2019/4/18
  */
 

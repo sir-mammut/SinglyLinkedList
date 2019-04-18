@@ -30,7 +30,7 @@ public class Nodes {
     public void setNext(Nodes next){
     	this.next = next;
     }
-    
+
      //Getting the existing data from the linked list
     public int getData(){
     	return data;
